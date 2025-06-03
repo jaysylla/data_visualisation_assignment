@@ -1,1 +1,1 @@
-# data_visualisation_assignment
+This project analyses global earthquake data using Python and Matplotlib. The dataset is ourced from Kaggle and contains details like magnitude, depth, and location of recent earthquakes. I used a bar graph to show the distribution of earthquake magnitudes, a pie chart to highlight the top five regions with the most seismic activity, a box plot to illustrate the depth distribution of earthquakes.
